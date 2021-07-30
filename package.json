@@ -1,0 +1,23 @@
+{
+  "name": "Cypress_Tests",
+  "version": "1.0.0",
+  "description": "Cypress_Tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elrafapc/Cypress_Tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elrafapc/Cypress_Tests/issues"
+  },
+  "homepage": "https://github.com/elrafapc/Cypress_Tests#readme",
+  "devDependencies": {
+    "cypress": "^8.1.0"
+  }
+}
